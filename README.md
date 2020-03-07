@@ -82,10 +82,3 @@ npm start
 npm run build
 ```
 ### [Github源码](https://github.com/chenjun1127/react-antd-admin)
-
-### 致谢
-* [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
-* [Antd-Design](https://ant.design/index-cn)
-* [React](https://reactjs.org)
-
-:heart: :heart:欢迎 star 支持:kissing_heart: :kissing_heart:
